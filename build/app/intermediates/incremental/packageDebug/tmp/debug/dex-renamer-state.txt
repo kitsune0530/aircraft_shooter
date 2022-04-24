@@ -1,0 +1,4 @@
+#Sun Apr 24 21:29:12 ICT 2022
+base.0=D\:\\Coding\\64-1\\AndroidStudio\\aircraft_shooter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
